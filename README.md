@@ -2,7 +2,8 @@
 
 ## Setting Up the Development Environment  
 
-I've organized this setup so that Ubuntu is used most of the time, but migrating to Windows whenever necessary, especially for RPA and enterprise application automation.
+Before diving into Python programming, it's critical to prepare a proper development environment. A well-configured environment ensures that we can write, test, and run our code smoothly, as well as allow us to install libraries and frameworks without conflicts.
+I noticed, as I did, that there are some difficulties for programmers who are starting out in Python, in configuring their environment correctly and smoothly, so I created and organized this setup so that Ubuntu is used most of the time, but migrating to Windows whenever necessary, especially for RPA and enterprise application automation.
 
 For this, we will have two configurations:
 
@@ -14,8 +15,6 @@ From there, each module will indicate which system to use, so that it is possibl
 ---
 
 ## Setting up the Ubuntu Development Environment
-
-Before diving into Python programming, it's critical to prepare a proper development environment. A well-configured environment ensures that we can write, test, and run our code smoothly, as well as allow us to install libraries and frameworks without conflicts.
 
 Many developers prefer Ubuntu because it offers a more stable and flexible development environment, as well as being widely used on servers and cloud infrastructure. However, even if you already have Python installed on your system, it's important to make sure everything is up to date and configured correctly. 
 
@@ -141,7 +140,7 @@ This will open Jupyter in the browser.
 
 While Ubuntu is widely used by developers and data scientists, Windows is still the most popular operating system in the world and often the default choice in businesses and development teams.
 
-By the end of this class, you will have a completely configured environment on Windows, allowing you to program in Python without difficulty. 
+By the end of this setup, you will have a completely configured environment on Windows, allowing you to program in Python without difficulty. 
 
 ---
 
