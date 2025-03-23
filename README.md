@@ -1,4 +1,4 @@
-# <p align="center"> python-setup-windows-and-Ubuntu </p>
+# <p align="center"> python setup - Ubunto and Windows </p>
 
 ## Setting Up the Development Environment  
 
