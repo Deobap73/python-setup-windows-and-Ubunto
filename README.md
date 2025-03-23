@@ -13,6 +13,8 @@ For this, we will have two configurations:
 From there, each module will indicate which system to use, so that it is possible to learn in the way that is most aligned with professional practice.
 
 ---
+<br> <br>
+<br> <br>
 
 <h1>Setting up the Ubuntu Development Environment </h1> 
 
