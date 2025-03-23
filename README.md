@@ -14,7 +14,7 @@ From there, each module will indicate which system to use, so that it is possibl
 
 ---
 
-## Setting up the Ubuntu Development Environment
+<h1>Setting up the Ubuntu Development Environment </h1> 
 
 Many developers prefer Ubuntu because it offers a more stable and flexible development environment, as well as being widely used on servers and cloud infrastructure. However, even if you already have Python installed on your system, it's important to make sure everything is up to date and configured correctly. 
 
@@ -181,8 +181,10 @@ This will open Jupyter in the browser.
 ✔ Installed Jupyter Notebook  
 
 ---
+<br> <br>
+<br> <br>
 
-## Setting Up the Windows Development Environment
+<h1>Setting Up the Windows Development Environment</h1>
 
 While Ubuntu is widely used by developers and data scientists, Windows is still the most popular operating system in the world and often the default choice in businesses and development teams.
 
